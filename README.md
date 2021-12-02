@@ -4,4 +4,4 @@
 
 * Java OOP, HTML, CSS, JSTL.
 * Servlet, Filter,..
-* URLRewriting, HttpSession, SiteMapProperty,.. 
+* URLRewriting, HttpSession,.. 
