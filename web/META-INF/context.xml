@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/se140869_longpn_lab1">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="Lab1"  type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=YellowMoonShop" 
+            username="sa" password="12345"/>
+</Context>
